@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+gem "faye"
+gem "faye-websocket"
+gem "faye-redis"
+gem "redis"
+gem "grape"
+gem "puma"
+gem "thin"
+gem "eventmachine"
+gem "foreman"
